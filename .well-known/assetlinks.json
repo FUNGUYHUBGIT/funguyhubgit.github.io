@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.entarsh.helper",
+    "sha256_cert_fingerprints": ["43:B4:A0:A6:E0:31:2E:BA:D9:25:B1:3A:41:53:01:45:5A:4F:30:B1:9A:80:CB:5E:E1:31:B8:2E:9C:7F:15:4E"]
+  }
+}]
